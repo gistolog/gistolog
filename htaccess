@@ -29,4 +29,7 @@ RewriteRule ^page5/$ page59669205.html [NC]
 RewriteRule ^page7$ page62614113.html [NC]
 RewriteRule ^page7/$ page62614113.html [NC]
 
+RewriteRule ^page6$ page62987025.html [NC]
+RewriteRule ^page6/$ page62987025.html [NC]
+
 
