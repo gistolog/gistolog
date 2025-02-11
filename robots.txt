@@ -12,4 +12,4 @@ Disallow:
 
 
 Sitemap: http://gistolog.tilda.ws/sitemap.xml
-Host: gistolog.tilda.ws
+Host: github.com
